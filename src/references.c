@@ -3044,3 +3044,9 @@ func_reference_type xc_ref_vonBarth1972_1629 = {
   "vonBarth1972_1629"
 };
 
+func_reference_type xc_ref_Holzer2022 = {
+  "A local hybrid exchange functional approximation from first principles",
+  "10.1063/5.0100439",
+  "@article{10.1063/5.0100439,\n  author = {Holzer, Christof and Franzke, Yannick J.},\n  title = {A local hybrid exchange functional approximation from first principles},\n    journal = {The Journal of Chemical Physics},\n    volume = {157},\n    number = {3},\n    pages = {034108},\n    year = {2022},\n    month = {07},\n    issn = {0021-9606},\n    doi = {10.1063/5.0100439},\n    url = {https://doi.org/10.1063/5.0100439},\n}",
+  "holzer_franzke_2022"
+};

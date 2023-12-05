@@ -196,6 +196,7 @@ extern xc_func_info_type xc_func_info_mgga_x_r2scanl;
 extern xc_func_info_type xc_func_info_mgga_c_r2scanl;
 extern xc_func_info_type xc_func_info_hyb_mgga_xc_lc_tmlyp;
 extern xc_func_info_type xc_func_info_mgga_x_mtask;
+extern xc_func_info_type xc_func_info_mgga_c_ldme_common;
 
 const xc_func_info_type *xc_mgga_known_funct[] = {
   &xc_func_info_hyb_mgga_x_dldf,
@@ -394,5 +395,6 @@ const xc_func_info_type *xc_mgga_known_funct[] = {
   &xc_func_info_mgga_c_r2scanl,
   &xc_func_info_hyb_mgga_xc_lc_tmlyp,
   &xc_func_info_mgga_x_mtask,
+  &xc_func_info_mgga_c_ldme_common,
   NULL
 };

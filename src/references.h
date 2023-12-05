@@ -446,3 +446,4 @@ extern func_reference_type xc_ref_lda_xc_corrksdt_note;
 extern func_reference_type xc_ref_nwchemimplementation;
 extern func_reference_type xc_ref_vanLeeuwen1994_2421;
 extern func_reference_type xc_ref_vonBarth1972_1629;
+extern func_reference_type xc_ref_Holzer2022;

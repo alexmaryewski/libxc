@@ -1945,3 +1945,6 @@
  ! Functional for quasi-1D systems
  integer(c_int), parameter, public :: XC_GGA_X_Q1D  =    734
 
+ ! Common LMF of the TMHF functional
+ integer(c_int), parameter, public :: XC_MGGA_C_LDME_COMMON = 735
+

@@ -94,8 +94,7 @@ libxc_la_FUNC_SOURCES = \
 	gga_x_ityh_optx.c hyb_gga_xc_cam_o3lyp.c gga_x_ityh_pbe.c	\
 	gga_c_lypr.c hyb_gga_xc_pbe_dh.c hyb_gga_x_cam_s12.c		\
 	hyb_gga_xc_case21.c gga_x_pbe_erf_gws.c gga_c_pbe_erf_gws.c     \
-	mgga.c \
-	mgga_x_lta.c mgga_x_tpss.c mgga_x_br89.c mgga_x_gvt4.c		\
+	mgga.c mgga_x_lta.c mgga_x_tpss.c mgga_x_br89.c mgga_x_gvt4.c  \
 	mgga_x_m06l.c mgga_x_tau_hcth.c mgga_x_2d_prhg07.c		\
 	mgga_x_2d_prp10.c mgga_x_pkzb.c hyb_mgga_x_m05.c mgga_x_m08.c	\
 	mgga_x_ms.c mgga_x_mn12.c mgga_c_vsxc.c mgga_c_pkzb.c		\
@@ -116,10 +115,10 @@ libxc_la_FUNC_SOURCES = \
 	mgga_x_scanl.c mgga_c_scanl.c hyb_mgga_x_js18.c			\
 	hyb_mgga_x_pjs18.c mgga_x_mbrxh_bg.c mgga_x_mbrxc_bg.c		\
 	mgga_x_task.c mgga_x_mggac.c mgga_x_th.c mgga_x_mbr.c		\
-	mgga_c_ltapw.c mgga_x_jk.c mgga_x_r2scan.c mgga_c_r2scan.c      \
-	mgga_c_b94.c mgga_k_lk.c mgga_k_rda.c mgga_k_gea2.c             \
+	mgga_c_ldme_common.c mgga_c_ltapw.c mgga_x_jk.c mgga_x_r2scan.c   \
+	mgga_c_r2scan.c mgga_c_b94.c mgga_k_lk.c mgga_k_rda.c mgga_k_gea2.c  \
 	mgga_k_gea4.c mgga_k_csk.c mgga_k_csk_loc.c mgga_x_r2scanl.c    \
-        mgga_c_r2scanl.c mgga_k_pgslb.c mgga_c_kcisk.c mgga_x_regtm.c   \
+    mgga_c_r2scanl.c mgga_k_pgslb.c mgga_c_kcisk.c mgga_x_regtm.c   \
 	mgga_c_rregtm.c mgga_x_mcml.c mgga_c_rmggac.c mgga_x_rppscan.c  \
 	mgga_c_rppscan.c mgga_x_r4scan.c mgga_x_ft98.c                  \
 	hyb_mgga_xc_br3p86.c mgga_x_vcml.c mgga_c_cc.c mgga_c_ccalda.c  \

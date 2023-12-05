@@ -430,6 +430,7 @@ set(raw_sources_list
   mgga_x_mggac.c
   mgga_x_th.c
   mgga_x_mbr.c
+  mgga_c_ldme_common.c
   mgga_c_ltapw.c
   mgga_x_r2scan.c
   mgga_c_r2scan.c
