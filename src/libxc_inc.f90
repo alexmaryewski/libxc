@@ -1946,8 +1946,11 @@
  integer(c_int), parameter, public :: XC_GGA_X_Q1D  =    734
 
  ! Common LMF of the TMHF functional
- integer(c_int), parameter, public :: XC_MGGA_C_LDME_COMMON = 735
+ integer(c_int), parameter, public :: XC_MGGA_C_LMF_TMHF = 735
+
+! Common LMF of the TMHF3P functional
+ integer(c_int), parameter, public :: XC_MGGA_C_LMF_TMHF3P = 736
 
  ! Tao and Mo exchange from TMHF local hybrid
- integer(c_int), parameter, public :: XC_MGGA_X_TMHF = 736
+ integer(c_int), parameter, public :: XC_MGGA_X_TMHF = 737
 

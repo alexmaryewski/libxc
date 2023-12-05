@@ -647,5 +647,6 @@
 #define  XC_HYB_GGA_XC_PBE_QIDH            727 /* Double hybrid of Bremond et al */
 #define  XC_HYB_GGA_XC_LS1DH_PBE           728 /* Double hybrid of Toulouse et al */
 #define  XC_GGA_X_Q1D                      734 /* Functional for quasi-1D systems */
-#define  XC_MGGA_C_LDME_COMMON             735 /* TMHF local mixing function (common) */
-#define  XC_MGGA_X_TMHF                    736 /* Tao and Mo exchange from TMHF local hybrid (2022) */
+#define  XC_MGGA_C_LMF_TMHF                735 /* TMHF local mixing function (common) */
+#define  XC_MGGA_C_LMF_TMHF3P              736 /* TMHF-3P local mixing function (common) */
+#define  XC_MGGA_X_TMHF                    737 /* Tao and Mo exchange from TMHF local hybrid (2022) */

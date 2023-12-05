@@ -9,7 +9,7 @@
 #include "util.h"
 
 #define XC_MGGA_X_TM          540 /* Tao and Mo 2016 exchange */
-#define XC_MGGA_X_TMHF          736 /* Tao and Mo 2016 exchange */
+#define XC_MGGA_X_TMHF          737 /* Tao and Mo 2016 exchange */
 
 #include "maple2c/mgga_exc/mgga_x_tm.c"
 #include "work_mgga.c"

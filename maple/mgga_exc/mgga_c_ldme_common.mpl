@@ -16,9 +16,8 @@ n  := (rs) -> 3/(4*Pi*rs^3):
 (* convention of libxc *)
 tp := (rs, z, xt) -> tt(rs, z, xt):
 
-tm_lambda := 0.6866:
-tm_beta   := 79.873:
-parc      := 0.180:
+(* tm_lambda := 0.6866: *)
+(* tm_beta   := 79.873: *)
 
 (* below Equation (6) of Tao-Mo *) 
 tm_p  := x -> (X2S*x)^2:
