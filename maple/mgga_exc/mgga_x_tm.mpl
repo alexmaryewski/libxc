@@ -9,8 +9,8 @@
 
 (* type: mgga_exc *)
 
-tm_lambda := 0.6866:
-tm_beta   := 79.873:
+(* tm_lambda := 0.6866: *)
+(* tm_beta   := 79.873: *)
 
 (* below Equation (6) *)
 tm_p  := x -> (X2S*x)^2:

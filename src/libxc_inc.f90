@@ -1948,3 +1948,6 @@
  ! Common LMF of the TMHF functional
  integer(c_int), parameter, public :: XC_MGGA_C_LDME_COMMON = 735
 
+ ! Tao and Mo exchange from TMHF local hybrid
+ integer(c_int), parameter, public :: XC_MGGA_X_TMHF = 736
+
